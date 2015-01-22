@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="radiobutton_normal">#85000000</color>
+    <color name="radiobutton_pressed">#FFFE007F</color>
+    <color name="radio_colors">#FFFFFFFF</color>
+    
+ 
+</resources>
